@@ -17,10 +17,8 @@
         <ul>
             <li>Linux: make is installed by default on most Linux distros</li>
         
-<li>
-            <li>Mac: install Xcode command line tools to get make</li>
-    </li>
-    <li>
+<li>Mac: install Xcode command line tools to get make</li>
+</li>
             <li>Windows: Click here for installation instructions</li>
 </ul>
     </li>
@@ -29,10 +27,8 @@
         <ul>
             <li>Linux: gcc / g++ is installed by default on most Linux distros</li>
         
-<li>
-            <li>Mac: same deal as make - install Xcode command line tools</li>
+<li>Mac: same deal as make - install Xcode command line tools</li>
     </li>
-    <li>
             <li>Windows: recommend using MinGW</li>
 </ul>
     </li>
@@ -41,10 +37,8 @@
         <ul>
             <li>Linux: sudo apt-get install libwxgtk3.0-dev libwxgtk3.0-0v5-dbg</li>
         
-<li>
-            <li>Mac: There is a homebrew installation available.</li>
+<li>Mac: There is a homebrew installation available.</li>
     </li>
-    <li>
             <li>Installation instructions can be found here. Some version numbers may need to be changed in instructions to install v3.0 or greater.</li>
     </li>
 </ul>
