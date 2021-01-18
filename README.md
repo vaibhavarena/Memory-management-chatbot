@@ -4,11 +4,18 @@
 
 <h2>Dependencies for Running Locally</h2>
 
-    <ul><li>cmake >= 3.11</li></ul>
+<ul>
+        <li>cmake >= 3.11</li>
+    </ul>
         <ol><li>All OSes: click here for installation instructions</li></ol>
-    <ul><li>make >= 4.1 (Linux, Mac), 3.81 (Windows)</li></ul>
-        <ol><li>Linux: make is installed by default on most Linux distros</li></ol>
-        <ol><li>Mac: install Xcode command line tools to get make</li></ol>
+    <ul>
+        <li>make >= 4.1 (Linux, Mac), 3.81 (Windows)</li>
+    </ul>
+    <ol>
+        <li>Linux: make is installed by default on most Linux distros</li>
+</ol>
+    
+<ol><li>Mac: install Xcode command line tools to get make</li></ol>
         <ol><li>Windows: Click here for installation instructions</li></ol>
     <ul><li>gcc/g++ >= 5.4</li></ul>
         <ol><li>Linux: gcc / g++ is installed by default on most Linux distros</li></ol>
