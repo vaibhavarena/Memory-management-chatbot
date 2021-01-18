@@ -7,24 +7,24 @@
 <ul>
         <li>cmake >= 3.11</li>
     </ul>
-        <ol><li>All OSes: click here for installation instructions</li></ol>
+        <li><ul><li>All OSes: click here for installation instructions</li></ol></li>
     <ul>
         <li>make >= 4.1 (Linux, Mac), 3.81 (Windows)</li>
     </ul>
-    <ol>
+    <ul>
         <li>Linux: make is installed by default on most Linux distros</li>
 </ol>
     
-<ol><li>Mac: install Xcode command line tools to get make</li></ol>
-        <ol><li>Windows: Click here for installation instructions</li></ol>
+<ul><li>Mac: install Xcode command line tools to get make</li></ol>
+        <ul><li>Windows: Click here for installation instructions</li></ol>
     <ul><li>gcc/g++ >= 5.4</li></ul>
-        <ol><li>Linux: gcc / g++ is installed by default on most Linux distros</li></ol>
-        <ol><li>Mac: same deal as make - install Xcode command line tools</li></ol>
-        <ol><li>Windows: recommend using MinGW</li></ol>
+        <ul><li>Linux: gcc / g++ is installed by default on most Linux distros</li></ol>
+        <ul><li>Mac: same deal as make - install Xcode command line tools</li></ol>
+        <ul><li>Windows: recommend using MinGW</li></ol>
     <ul><li>wxWidgets >= 3.0</li></ul>
-        <ol><li>Linux: sudo apt-get install libwxgtk3.0-dev libwxgtk3.0-0v5-dbg</li></ol>
-        <ol><li>Mac: There is a homebrew installation available.</li></ol>
-        <ol><li>Installation instructions can be found here. Some version numbers may need to be changed in instructions to install v3.0 or greater.</li></ol>
+        <ul><li>Linux: sudo apt-get install libwxgtk3.0-dev libwxgtk3.0-0v5-dbg</li></ol>
+        <ul><li>Mac: There is a homebrew installation available.</li></ol>
+        <ul><li>Installation instructions can be found here. Some version numbers may need to be changed in instructions to install v3.0 or greater.</li></ol>
 
 <h2>Basic Build Instructions</h2>
 <ul>
