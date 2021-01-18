@@ -6,7 +6,7 @@
 
 
 
-    <li>cmake >= 3.11
+<li>cmake >= 3.11
         <ul>
             <li>All OSes: click here for installation instructions</li>
         </ul>
