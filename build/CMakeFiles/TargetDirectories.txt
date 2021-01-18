@@ -1,0 +1,3 @@
+/home/vibhas/Documents/Memory-management-chatbot/build/CMakeFiles/rebuild_cache.dir
+/home/vibhas/Documents/Memory-management-chatbot/build/CMakeFiles/edit_cache.dir
+/home/vibhas/Documents/Memory-management-chatbot/build/CMakeFiles/membot.dir
