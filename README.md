@@ -5,8 +5,8 @@
 <h2>Dependencies for Running Locally</h2>
 
 
-<ul><li>cmake >= 3.11</li></ul>
-    <li>
+
+    <li>cmake >= 3.11
         <ul>
             <li>All OSes: click here for installation instructions</li>
         </ul>
